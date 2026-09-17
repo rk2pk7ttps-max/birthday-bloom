@@ -16,6 +16,8 @@ const envSoundEffects = envSoundEffectsRaw !== null
 
 export const BIRTHDAY_CONFIG = {
   targetName: "Khin Phone",
+  title: "HAPPY BIRTHDAY KHIN PHONE",
+  subtitle: "Love You Khin Phone",
 };
 
 export const PHOTO_ASSETS = {
