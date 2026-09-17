@@ -14,6 +14,10 @@ const envSoundEffects = envSoundEffectsRaw !== null
   ? !['false', '0', 'no', 'off', 'disabled'].includes(envSoundEffectsRaw.toLowerCase())
   : true;
 
+export const BIRTHDAY_CONFIG = {
+  targetName: "Khin Phone",
+};
+
 export const PHOTO_ASSETS = {
   photo1: envPhoto1,
   photo2: envPhoto2,
